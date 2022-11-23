@@ -1,0 +1,2 @@
+# Fon Radar 
+Fon Radar is an effective and a highly fast web platform that connects small and medium-sized enterprises (SMEs) with financial instutitions with the purpose of facilitating the financial needs of the SMEs. SMEs can easily and promptly convert their long-term receivables into cash, and manage their working capital needs by meeting with several competitive financial institutions’ quotations through Fon Radar’s digital platform.
